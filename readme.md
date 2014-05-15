@@ -2,7 +2,7 @@
 
 #### Overview
 
-This is a GUI front-end for the microcontroller firmware Omega (https://github.com/gtarawneh/omega). It can create, edit and execute motion command scripts on the controller.
+This is a GUI front-end for microcontroller firmware Omega (https://github.com/gtarawneh/omega). It can create, edit and execute motion command scripts on the controller.
 
 #### Screenshot
 
